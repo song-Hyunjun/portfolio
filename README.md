@@ -33,7 +33,7 @@
 
 - 맡은 역할 : Spring boot(Gradle)와 Spring Security를 활용한 회원가입 및 로그인 로그아웃, 프로젝트 선택 페이지 사용자별 프로젝트 출력, 평가/평가기록 페이지 삭제
  
-### 2. 핵심프로젝트
+### 2. [핵심프로젝트](https://github.com/TeamDopamine)
 - 핵심프로젝트 - OpenAI기반 유치원 업무 관리시스템
 - 개발기간 : 2023.12.15 ~ 2024.01.24
 - 기술스택 : HTML, CSS, JAVA, JS, Oracle
