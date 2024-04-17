@@ -21,7 +21,7 @@
 | <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> |
 
 ## :pushpin: Education
-- 2023 광주지역 산업구조 변화대응 등 특화훈련 언어지능기반 분석 서비스모델 개발자과정 수료(2023.09.27 ~ 2024.04.17)
+- 2023 광주지역 산업구조 변화대응 등 특화훈련 언어지능기반 분석 서비스모델 개발자과정 수료(2023.09.27 ~ 2024.04.17/1040시간)
 - 정보처리기사 필기 합격 (2024.03)
 - 조선대학교 경찰행정학과 졸업 (2017.03 ~ 2022.08)
 
