@@ -1,5 +1,3 @@
-
-
 ## 끊임없이 노력하는 개발자 송현준입니다.
 
 ## :pushpin: Introduce
@@ -21,6 +19,27 @@
 | Java | Spring | Spring<br>Boot | Python |
 | :---: | :---: | :---: | :---: |
 | <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> |
+
+## 1. 실전프로젝트 
+ 실전프로젝트 - 웹사이트 기반 생성형 LLM 평가/개선도구 & 교육기관용 프로젝트 기획서 생성형 LLM
+ 개발기간:2024.02.15 ~ 2024.04.15
+ 기술스택:HTML, JS, CSS. Framer, Chart.js, mongoDB, Vscode, spring boot, ajax, FastAPI, Tavily, Gradle, OpenAI, GCP, docker, Git, Notion, Confluence
+
+ 맡은 역할:Spring Security 웹사이트 제작, Spring boot(Gradle) 회원가입 및 로그인, 로그아웃, 프로젝트 선택 페이지 사용자별 프로젝트 출력 평가/평가기록 페이지 삭제
+ 
+## 2. 핵심프로젝트
+ 핵심프로젝트 - OpenAI기반 유치원 업무 관리시스템
+ 개발기간:2023.12.15 ~ 2024.01.24
+ 기술스택:HTML, CSS, JAVA, JS, Oracle
+
+ 맡은 역할:메인페이지 구현(캘린더(월), 주간일정, 일지목록), 원생관리페이지(원생 추가,삭제), 캘린더api(FullCalendar) 연동 및 일정 관리 페이지 구현
+ 
+## 3. 미니프로젝트
+ 미니프로젝트 - 아파트 데이터 활용 분석
+ 개발기간:2023.10.01 ~ 2023.11.05
+ 기술스택:Python
+
+ 맡은 역할:세대구성별 아파트 소유 가구수 분석, 가구원수별 아파트 소유 가구수 분석 (연도별), 아파트 브랜드 선호도 워드클라우드 및 크롤링(뉴스 타이틀 30페이지)
 
 ![donue_signature](https://github.com/song-Hyunjun/song-Hyunjun/assets/153901385/107fa6ae-edf7-413e-b845-1dc5c32b676d)
 
