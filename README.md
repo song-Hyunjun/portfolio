@@ -3,13 +3,9 @@
 ## :pushpin: Intro
 책임감과 성실함이 넘치는 개발자 지망생 송현준입니다.
 
-</br>
-
 ## :pushpin: Contact
 - 이메일: thdguswns429@gmail.com
 - 깃허브: https://github.com/song-Hyunjun
-
-</br>
 
 ### Front-end
 | Html | JavaScript |
