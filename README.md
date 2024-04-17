@@ -17,9 +17,9 @@
 | <img alt="Html" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/440px-HTML5_logo_and_wordmark.svg.png" width="65" height="65" /> | <img alt="Css" src ="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" /> |
 
 ### Back-end
-| Java | AWS | Spring | Spring<br>Boot | Python |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> |
+| Java | Spring | Spring<br>Boot | Python |
+| :---: | :---: | :---: | :---: |
+| <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> |
 
 ![donue_signature](https://github.com/song-Hyunjun/song-Hyunjun/assets/153901385/107fa6ae-edf7-413e-b845-1dc5c32b676d)
 
