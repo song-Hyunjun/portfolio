@@ -6,7 +6,7 @@
 
 ## :pushpin: Contact
 - 이메일: thdguswns429@gmail.com
-- 깃헙: https://github.com/song-Hyunjun
+- 깃허브: https://github.com/song-Hyunjun
 
 </br>
 
