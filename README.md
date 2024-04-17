@@ -1,7 +1,7 @@
 # Portfolio
 
 ## :pushpin: Intro
-책임감과 성실함이 넘치는 개발자 지망생 송현준입니다.
+책임감과 성실함이 넘치는 개발자 송현준입니다.
 
 ## :pushpin: Contact
 - 이메일: thdguswns429@gmail.com
