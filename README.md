@@ -11,7 +11,7 @@
 - 이메일: thdguswns429@gmail.com
 - 깃허브: https://github.com/song-Hyunjun
 
-## :pushpin: Tech Stack
+## :pushpin: Tech Skill
 #### Front-end
 | Html | CSS | JavaScript |
 | :---: | :---: | :---: |
