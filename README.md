@@ -20,6 +20,8 @@
 | :---: | :---: | :---: | :---: |
 | <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> |
 
+## :pushpin: experience
+
 ### 1. 실전프로젝트 
 - 실전프로젝트 - 웹사이트 기반 생성형 LLM 평가/개선도구 & 교육기관용 프로젝트 기획서 생성형 LLM
 - 개발기간 : 2024.02.15 ~ 2024.04.15
