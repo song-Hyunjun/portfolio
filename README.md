@@ -1,7 +1,7 @@
 # Portfolio
 
 ## :pushpin: Intro
-책임감있게 열심히하는 개발자 지망생 송현준입니다.
+책임감 넘치는 개발자 송현준입니다.
 </br>
 
 ## :pushpin: Contact
@@ -10,10 +10,6 @@
 - 깃헙: https://github.com/song-Hyunjun
 
 </br>
-
-## :pushpin: Projects
-### 
-  
 
 ### Tools
 | Git | Github |
