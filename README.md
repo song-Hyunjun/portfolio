@@ -27,7 +27,7 @@
 - 조선대학교 경찰행정학과 졸업 (2017.03 ~ 2022.08)
 
 ## :pushpin: experience
-### 1. [실전프로젝트](https://github.com/Gosegu2024)
+### 1. [실전프로젝트](https://github.com/Gosegu2024)(최우수)
 - 실전프로젝트 - 웹사이트 기반 생성형 LLM 평가/개선도구 & 교육기관용 프로젝트 기획서 생성형 LLM
 - 개발기간 : 2024.02.15 ~ 2024.04.15
 - 기술스택 : HTML, JS, CSS, mongoDB, Vscode, spring boot, Spring Security, ajax, Gradle, , GCP, Git, Notion, Confluence
