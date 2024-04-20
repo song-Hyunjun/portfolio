@@ -33,7 +33,7 @@
 - 기술스택 : HTML, JS, CSS, mongoDB, Vscode, spring boot, Spring Security, ajax, Gradle, , GCP, Git, Notion, Confluence
 
 - 맡은 역할
-    - Spring boot(Gradle)와 Spring Security를 활용한 회원가입 및 로그인 로그아웃
+    - Spring boot(Gradle)와 Spring Security를 활용한 회원가입 및 로그인, 로그아웃
     - 메인 페이지(사용자별 프로젝트 출력)
     - 평가/평가기록 페이지(삭제, 초기화)
  
