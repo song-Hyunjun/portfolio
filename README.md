@@ -63,6 +63,3 @@
     - 가구원수별 아파트 소유 가구수 분석 (연도별)
     - 아파트 브랜드 선호도 워드클라우드 및 크롤링(뉴스 타이틀 30페이지)
 
-![donue_signature](https://github.com/song-Hyunjun/song-Hyunjun/assets/153901385/107fa6ae-edf7-413e-b845-1dc5c32b676d)
-
----
