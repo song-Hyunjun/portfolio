@@ -11,14 +11,14 @@
 
 ## :pushpin: Tech Skill
 #### Front-end
-| Html | CSS | JavaScript |
-| :---: | :---: | :---: |
-| <img alt="Html" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/440px-HTML5_logo_and_wordmark.svg.png" width="65" height="65" /> | <img alt="Css" src ="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" /> |
+| Html | CSS | JavaScript | React |
+|---|---|---|---|
+| <img alt="Html" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/440px-HTML5_logo_and_wordmark.svg.png" width="65" height="65" /> | <img alt="Css" src ="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" /> | <img src="https://cdn.jsdelivr.net/npm/react@18.2.0/logo-oss.svg" alt="React Logo" width="65" height="65" /> |
 
 #### Back-end
-| Java | Spring | Spring<br>Boot | Python |
-| :---: | :---: | :---: | :---: |
-| <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> |
+| Java | Spring | Spring<br>Boot | Python | Node.js |
+|---|---|---|---|---|
+| <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://nodejs.org/static/images/nodejs-logo.svg" alt="Node.js Logo" width="65" height="65" /> |
 
 ## :pushpin: Education
 - 2023 광주지역 산업구조 변화대응 등 특화훈련 언어지능기반 분석 서비스모델 개발자과정 수료
