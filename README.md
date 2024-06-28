@@ -23,7 +23,7 @@
 #### Database
 | MySQL | Oracle | MongoDB |
 |---|---|---|
-| <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="65" height="65" /> | <img src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_logo.svg" alt="Oracle Logo" width="65" height="65" /> | <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB Logo" width="65" height="65" /> |
+| <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="65" height="65" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Oracle_logo.svg" alt="Oracle Logo" width="65" height="65" /> |<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" width="65" height="65" /> |
 
 ## :pushpin: Education
 - 2023 광주지역 산업구조 변화대응 등 특화훈련 언어지능기반 분석 서비스모델 개발자과정 수료
