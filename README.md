@@ -35,10 +35,11 @@
 ### 1. [실전프로젝트](https://github.com/Gosegu2024)(최우수)
 - 실전프로젝트 - 웹사이트 기반 생성형 LLM 평가/개선도구 & 교육기관용 프로젝트 기획서 생성형 LLM
 - 개발기간 : 2024.02.15 ~ 2024.04.15
-- 기술스택 : HTML, JS, CSS, mongoDB, Vscode, spring boot, Spring Security, ajax, Gradle, , GCP, Git, Notion, Confluence
+- 기술스택 : HTML, JS, CSS, MongoDB, Vscode, Spring Boot, Spring Security, Ajax, Gradle, , GCP, Git, Notion, Confluence
 
 - 맡은 역할
-    - Spring boot(Gradle)와 Spring Security를 활용한 회원가입 및 로그인, 로그아웃
+    - Spring Boot(Gradle)와 Spring Security
+    - 회원가입 및 로그인, 로그아웃
     - 메인 페이지(사용자별 프로젝트 출력)
     - 평가/평가기록 페이지(삭제, 초기화)
  
